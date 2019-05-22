@@ -64,7 +64,7 @@ You will submit (by executing a pull request on this project from your fork):
 * all code / notebooks etc. that you used in exploring the data and building your model. 
 * a file containing the predictions from your model when executed on the `sampled_test` file.
 
-All files should submitted as a pull request to this project. You *should not* submit the raw data as part of your
+All files should submitted as a **pull request** to this project. You *should not* submit the raw data as part of your
 project submission. Once you have submitted your project please notify your hiring contact that your take home project
-has been submitted.
+has been submitted. **If you do not submit your project as a pull request, your project will be ignored.**
 
