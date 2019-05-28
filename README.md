@@ -52,7 +52,7 @@ from the data set.
 
 ## What you need to do
 
-You need to analyze the dataset and develop a strategy for optimally predicting whether or not a click will occur in 
+You need to analyze the dataset and develop a strategy for optimally predicting the probability a click will occur in 
 the future. You should then train a model to predict the probability of click occuring based on the data in the dataset
 `sampled_test`. The output from this prediction should be a number between 0 and 1. This project should take you approximately
 3 hours to complete. (Don't choose a compute intensive ml algorithm when training your model. We mostly care about your 
